@@ -1,10 +1,11 @@
-# Revisione di *La Scuola Eterna*
+# Revisione di *Scuola Infinita*
 
 File consegnati:
 
-- **La Scuola Eterna - Edizione Rivista.pdf**: il file da caricare su KDP (interno 6×9").
-- **La Scuola Eterna - Edizione Rivista.docx**: lo stesso testo in formato modificabile.
-- I file originali («Edizione Corretta») sono rimasti intatti.
+- **Scuola Infinita - Edizione Rivista.pdf**: il file da caricare su KDP (interno 6×9").
+- **Scuola Infinita - Edizione Rivista.docx**: lo stesso testo in formato modificabile.
+- I file originali («La Scuola Eterna - Edizione Corretta») sono rimasti intatti.
+- Titolo in copertina e sul frontespizio: **SCUOLA INFINITA**, senza sottotitolo. Nel testo la scuola continua a chiamarsi «Scuola Eterna».
 
 Il sommario del DOCX riporta i numeri di pagina del PDF. Se riapri e salvi il DOCX con Word, la paginazione può spostarsi di qualche riga. Per KDP usa il PDF.
 
@@ -14,9 +15,9 @@ Il sommario del DOCX riporta i numeri di pagina del PDF. Se riapri e salvi il DO
 
 | | Originale | Rivista |
 |---|---|---|
-| Pagine | 496 | **609** |
-| Dorso KDP, carta bianca (× 0,002252") | 1,117" | **1,371" (34,8 mm)** |
-| Dorso KDP, carta crema (× 0,0025") | 1,240" | **1,522" (38,7 mm)** |
+| Pagine | 496 | **608** |
+| Dorso KDP, carta bianca (× 0,002252") | 1,117" | **1,369" (34,8 mm)** |
+| Dorso KDP, carta crema (× 0,0025") | 1,240" | **1,520" (38,6 mm)** |
 
 **Il dorso della copertina va rifatto.** Le pagine aumentano per due motivi. Il PDF originale era una pagina Letter rimpicciolita a 6×9, con il testo in Georgia a circa 8,3 pt: illeggibile in stampa. Inoltre non rispettava i margini minimi di KDP.
 
@@ -38,7 +39,7 @@ Il sommario del DOCX riporta i numeri di pagina del PDF. Se riapri e salvi il DO
 ### Verifiche fatte sul PDF finale
 
 - Ogni voce del sommario apre la pagina giusta (71 su 71).
-- Il numero a piè di pagina corrisponde alla pagina fisica, su tutte le 609 pagine.
+- Il numero a piè di pagina corrisponde alla pagina fisica, su tutte le 608 pagine.
 - Nessun titolo, titoletto o separatore resta isolato in fondo a una pagina. Nessuna pagina contiene una sola riga.
 - Un solo font incorporato (EB Garamond 12, tondo e corsivo), quindi nessun glifo mancante. Nessun carattere anomalo: il «低», il cirillico «disperата» e le frecce dell'originale sono stati tolti.
 - La riconversione del DOCX produce un PDF identico, pagina per pagina.
@@ -92,7 +93,7 @@ Gli altri capitoli scalano di conseguenza.
 
 **Cap. 68.** Era ambientato «al quinto anno», mentre il cap. 67 aveva già superato il decimo. Ora è al dodicesimo anno, con numeri coerenti: circa 100 persone, divise in due gruppi da circa 50.
 
-**Cap. 70 ed epilogo.** Maya era insieme la nipotina di 5 anni e la figlia adottiva di 35. Ora il cap. 70 si svolge «quarant’anni dopo», come l’epilogo. La bambina è **Luna**, figlia di Maya.
+**Cap. 70 ed epilogo.** Maya era insieme la nipotina di 5 anni e la figlia adottiva di 35. Ora il cap. 70 si svolge «quarant’anni dopo», come l’epilogo. La bambina è **Nora**, figlia di Chiara (la figlia adottiva, che nell’originale si chiamava Maya come la ragazza del Settore Z).
 
 **Personaggi rinominati per eliminare omonimie e contraddizioni** (solo nei punti indicati):
 
@@ -111,34 +112,56 @@ Gli altri capitoli scalano di conseguenza.
 | Thomas-891 | Samir-891 | cap. 47 |
 | Yuki (Tokyo, due diverse) | Aiko, Haruka | capp. 51, 55 |
 | Daniel colombiano; Maya/Sara/Laura | Diego; **Laura** | capp. 55–56 |
-| Keiko, Kai, Chen (famiglia nell’epilogo) | Noriko, Ren, Tomás | epilogo |
+| Keiko, Kai, Chen, Jonah, Maya, Luna, Leo (famiglia e bambini del finale) | Noriko, Ren, Tomás, Ettore, Chiara, Nora, Pablo | capp. 66–70, epilogo |
+| Chen studente; Presidente Chen; prof.ssa Chen | Ryo; Presidente Sorel; prof.ssa Ferraro | capp. 3–14 |
+| Dr. David Chen (quaderno nel Sotterraneo 3) | Dr. Paul Arden | cap. 19 |
+| David Park (gruppo di Elio); «David K.» | Owen Park; Pavel K. | capp. 7–16 |
+| Professor Martinez (omonimo di Melissa) | Professor Moreau | capp. 6–14 |
+| Anna Kowalski (armonizzata) | Agata Kowalski | capp. 6–7 |
+| Maya (recluta nella Parte 0) | Mira | cap. 27 |
+| Alex Rivera (soggetto 047) | Sam Rivera | cap. 19 |
+| Carlos brasiliano; Carlos spagnolo | Rodrigo; Andrés | capp. 55, 67 |
+| Robert (Rifugio Echo); Robert (comunità) | Bernard; Konrad | capp. 47–48, 68 |
 
 A questi si aggiungono le correzioni della prima parte, fatte nei primi 44 capitoli:
 - Isabella Rossi, Irene, Holloway/Hale, Leo, Reyes, Philip Lee, Ahmed, Mateo, Walter, Hiro, Amélie, Pietro, Samuel, David Klein, Wei;
 - le date 1987, 1999, 2015 e 2017 dei prigionieri, ricalcolate sul 2083;
 - Fenice al posto di «Phoenix», una volta verificato che si tratta dello stesso protocollo.
 
-## 5. Decisioni che spettano a te
+## 5. Seconda tornata (tue indicazioni)
 
-1. **Titolo**: il frontespizio dice «SCUOLA INFINITA – Prigione eterna», il file e il testo «La Scuola Eterna». Ho lasciato il frontespizio originale; dimmi quale vuoi.
-2. **I due finali** (rivoluzione e Complesso Centrale): ora sono coerenti grazie al ponte, ma il libro resta lungo e con due climax. Se vuoi snellirlo, il candidato naturale al taglio è uno dei due archi, oppure il capitolo della simulazione.
-3. **Chiusura con le massime** (ultima pagina, «La vera libertà non è…»): l’ho tenuta, togliendo solo il titoletto «MESSAGGIO FINALE». È molto didascalica: valuta se tenerla.
+- **Titolo**: «Scuola Infinita», senza sottotitolo.
+- **I due finali** restano entrambi; **le massime finali** restano.
+- **Gatto Heisenberg**: il filo ora si chiude.
+  - All’inizio del cap. 17 la prima fase del piano riesce: il gatto viene catturato e il Dr. Williams legge il codice nel suo DNA.
+  - Il codice però è vecchio di decenni. EDUX ha riscritto i protocolli, e l’unico comando ancora valido apre le porte del Settore per venti minuti. Da qui nasce la fuga.
+  - Heisenberg passa i tre giorni nel bunker con i ragazzi. Nel cap. 21 Elio vede la sua foto sulla scrivania di Vance: il sistema si è ripreso anche lui.
+  - Dopo la caduta di EDUX (cap. 55) Vance viene trovato con il vecchio gatto sulle ginocchia.
+- **Omonimie** corrette: vedi la tabella al §4.
+  - Ora Chen è solo il militare dei capp. 31–49, David solo David Klein e Martinez solo Melissa.
+- **Tic stilistici** ridotti con un passaggio controllato su tutto il testo, senza toccare i casi in cui la parola porta significato («non completamente», «integrato completamente», elenchi di avverbi, domande):
 
-## 6. Segnalazioni (non corrette)
+  | Tic | Prima | Dopo |
+  |---|---|---|
+  | completamente | 182 | 100 |
+  | veramente | 81 | 40 |
+  | sussurrò | 81 | 23 (alternato con «mormorò», «bisbigliò») |
+  | lentamente | 115 | 72 |
+  | pattern | 54 | 9 (→ schema/schemi) |
+  | perfettamente | 50 | 15 |
+  | terrificante | 37 | 12 (alternato con «agghiacciante», «sconvolgente») |
+  | letteralmente | 28 | 8 |
+  | genuinamente | 27 | 9 |
+  | «forse, solo forse» | 7 | 2 |
+  | «Silenzio.» come paragrafo a sé | 19 | 10 |
 
-- **Trame sospese**:
-  - il gatto Heisenberg sparisce dopo il cap. 14;
-  - Jonas compare senza presentazione, e l’unico «seguito» è un pensiero di Elio nel cap. 70;
-  - Nina, trasferita alla Facility Delta, non torna più.
-- **Omonimie residue minori**:
-  - più personaggi di nome Chen (Direttore, Presidente, studente, il militare dei capp. 44–49);
-  - più David (Park, Klein);
-  - Anna (cap. 7 e rivoluzione), Carlos (Brasile e Spagna), Robert (Rifugio Echo e comunità), Maya (Settore Z e figlia adottiva).
-- **Ambientazione**: il tono è europeo/italiano, ma restano molti nomi e riferimenti americani (DeShawn, San Francisco nel passato, Game of Thrones…). Non è un errore, ma è una scelta da fare consapevolmente.
-- **Tic stilistici** (conteggi sul testo rivisto):
-  - «completamente» 182, «davvero/veramente» 175, «qualcosa di» 153, «come se» 102;
-  - «abbastanza» 111 (quasi tutti d’uso normale; tolti gli usi a effetto nei finali);
-  - «sussurrò» 81, «pattern» 54, «perfettamente» 50, «terrificante» 37;
-  - «Silenzio.» come paragrafo a sé 19 volte, paragrafi di una sola parola 96.
-  - Diversi capitoli finiscono con una parola isolata («Mai.», «Sempre.», «Deve.», «Ancora.»). Non sono consecutivi, quindi li ho lasciati.
-- Lettere e diari su più paragrafi hanno le virgolette solo in apertura e in chiusura: è una scelta tipografica corretta, non un errore.
+  Ho tolto anche il riempitivo «quella cosa specifica», «quel momento specifico» e simili (11 casi).
+  - Restano, perché sono italiano normale: «qualcosa di», «come se», «abbastanza».
+
+## 6. Segnalazioni residue
+
+- Jonas: come da tua indicazione, lasciato com’è.
+- Nina, trasferita alla Facility Delta, non torna più.
+- Marcus compare come capo del bunker (cap. 17), come amico «Marco» diventato Studente Perfetto (cap. 20) e come ex militare della rivoluzione (capp. 46–53). Si può leggere come lo stesso personaggio, quindi non l’ho toccato.
+- **Ambientazione**: il tono è europeo/italiano, ma restano molti nomi e riferimenti americani (DeShawn, San Francisco nel passato, Game of Thrones…).
+- Lettere e diari su più paragrafi hanno le virgolette solo in apertura e in chiusura: è una scelta tipografica corretta.
